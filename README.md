@@ -1,0 +1,1 @@
+Red Skull Cookie logger is an easy roblox cookie stealer fully written in Python language
