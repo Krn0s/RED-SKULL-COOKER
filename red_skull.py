@@ -3,7 +3,7 @@ import requests
 import threading
 from base64 import *
 
-WebHook = "https://discord.com/api/webhooks/1076853982321967114/EtBwuKmwSaB8HXONwmP7v9sGeGTbfOiou98wyWKrbBo9_YS0embssu8f8tQpEydlqC-i" # Input your webhook here
+WebHook = "" # Input your webhook here
 
 
 
