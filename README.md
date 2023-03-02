@@ -9,6 +9,11 @@ RED SKULL COOK'ER
 
 <img src="https://cdn.discordapp.com/attachments/1066174115490312222/1079350826537078804/image.png">
 
+### 〢 Features
+ IP Grabber ✅
+ Cookie Logger ✅
+ Token Grabber (SOON)
+
 ### 〢 Setting Up
 
 1. Put ur webhook at WebHook = ""
