@@ -10,6 +10,7 @@ RED SKULL COOK'ER
 <img src="https://cdn.discordapp.com/attachments/1066174115490312222/1079350826537078804/image.png">
 
 ### 〢 Features
+
 1.IP Grabber ✅
 2.Cookie Logger ✅
 3.Token Grabber (SOON)
