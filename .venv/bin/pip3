@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/Aidan/img logger/RED-SKULL-COOKER/.venv/bin/python3" "$0" "$@"
+'''exec' "/Users/Aidan/img logger/RED-SKULL-COOKER/.venv/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
